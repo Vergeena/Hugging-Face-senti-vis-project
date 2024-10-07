@@ -6,3 +6,9 @@
 6)For chat response got the sentimental analysis.
 7)for sentimental visualization done.
 8)for sentimaental analysis image also attached for your reference.
+
+
+Name : Vergeena Devi.C
+Contact number : 8124691458
+Location : Chennai
+Gmail : sayfutureai@gmail.com
